@@ -1,0 +1,2 @@
+# Explainable-AI-for-Battery-State-of-Health-Prediction-using-SHAP-and-LIME
+Designed and implemented a deep learning-based SOH prediction system using a CNN-LSTM architecture. Applied SHAP and LIME to enhance model interpretability, enabling local explanations of feature influence. Leveraged time-series preprocessing and integrated explainable AI techniques for transparent and trustworthy battery diagnostics
